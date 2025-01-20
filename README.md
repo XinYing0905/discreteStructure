@@ -40,14 +40,14 @@ problems.
 > This assignment boosted my understanding on these topics, as there were some extreeeemely hard questions required me to do extra researches and consultation. Yeah probability question 5, I'm referring to youuuuuu! 
 
 ## ➗ Assignment 4
-4️⃣ Haven't done hahahaha<br><br>
+4️⃣ This assignment covered chapter 4 (Graph Theory) and chapter 5 (Finite Automata).<br><br>
 📝 Worksheet : <br><br>
 <a href="Assignments/Assignment 4 DS (Chapter 4 and 5).pdf">
   <img src="images/A4.png" alt="PDF Preview" width="300">
 </a>
 <br><br>🧩 Solution: [Assignment 4](https://github.com/XinYing0905/discreteStructure/blob/main/Assignments/DS%20A4.pdf)
 - 💭 Reflection:
-> sumimase
+> This is the last assignment of the semester, so we all treated it very seriously, checked and checked before submitting. Hopefully our hardwork can be paid off hahahaha.
 
 ## 🪞 Reflection
 This course is kind of like extension to mathematics I've learned during high school. I gained deeper understanding on topics like functions, probability and graphs now.
